@@ -13,9 +13,13 @@ You can find the dataset necessary for the analysis on following link : https://
 
 # Conclusion
 • The Rented Bike Count has been increased from 2017 to 2018.
+
 • No overfitting is seen.
+
 • XGBoost Regressor gives the highest R2 score of 96.6% for Train 
 Set and 89.4% for Test set. 
+
 • Feature Importance value for Random Forest, Gradient Boost, 
 and XGBoost are different.
+
 • We can deploy this model.
